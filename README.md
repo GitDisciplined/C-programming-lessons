@@ -1,1 +1,1 @@
-First programming lesson in C programming
+* This repo is meant as a revision of c programming language
